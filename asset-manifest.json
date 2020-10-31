@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.14b585a1.chunk.css",
-    "main.js": "/my-app/static/js/main.6f726bfa.chunk.js",
-    "main.js.map": "/my-app/static/js/main.6f726bfa.chunk.js.map",
+    "main.css": "/my-app/static/css/main.1a11ddae.chunk.css",
+    "main.js": "/my-app/static/js/main.e6acda72.chunk.js",
+    "main.js.map": "/my-app/static/js/main.e6acda72.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.00fe1762.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.00fe1762.js.map",
-    "static/js/2.f51ed56d.chunk.js": "/my-app/static/js/2.f51ed56d.chunk.js",
-    "static/js/2.f51ed56d.chunk.js.map": "/my-app/static/js/2.f51ed56d.chunk.js.map",
+    "static/js/2.5c3e7db5.chunk.js": "/my-app/static/js/2.5c3e7db5.chunk.js",
+    "static/js/2.5c3e7db5.chunk.js.map": "/my-app/static/js/2.5c3e7db5.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.5c03fae22921328f0e0e7f63a1b74328.js": "/my-app/precache-manifest.5c03fae22921328f0e0e7f63a1b74328.js",
+    "precache-manifest.cf0c68111dd210be8d0d80ac6e0f5267.js": "/my-app/precache-manifest.cf0c68111dd210be8d0d80ac6e0f5267.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.14b585a1.chunk.css.map": "/my-app/static/css/main.14b585a1.chunk.css.map",
-    "static/js/2.f51ed56d.chunk.js.LICENSE.txt": "/my-app/static/js/2.f51ed56d.chunk.js.LICENSE.txt",
+    "static/css/main.1a11ddae.chunk.css.map": "/my-app/static/css/main.1a11ddae.chunk.css.map",
+    "static/js/2.5c3e7db5.chunk.js.LICENSE.txt": "/my-app/static/js/2.5c3e7db5.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/my-app/static/media/Helvetica73BoldExtended.55612daf.woff",
     "static/media/account.svg": "/my-app/static/media/account.a3397d15.svg",
     "static/media/bag.svg": "/my-app/static/media/bag.2c6dad0e.svg",
     "static/media/burger.svg": "/my-app/static/media/burger.34d26c7e.svg",
+    "static/media/image1.jpg": "/my-app/static/media/image1.9dd4d32d.jpg",
+    "static/media/image2.jpg": "/my-app/static/media/image2.6a9a9171.jpg",
     "static/media/logo1.svg": "/my-app/static/media/logo1.1452c037.svg",
     "static/media/logo2.svg": "/my-app/static/media/logo2.c4b088fa.svg",
     "static/media/search.svg": "/my-app/static/media/search.a4d8def7.svg",
@@ -26,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00fe1762.js",
-    "static/js/2.f51ed56d.chunk.js",
-    "static/css/main.14b585a1.chunk.css",
-    "static/js/main.6f726bfa.chunk.js"
+    "static/js/2.5c3e7db5.chunk.js",
+    "static/css/main.1a11ddae.chunk.css",
+    "static/js/main.e6acda72.chunk.js"
   ]
 }
