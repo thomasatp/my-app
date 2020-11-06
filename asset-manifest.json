@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.9f92cec2.chunk.css",
-    "main.js": "/my-app/static/js/main.c1b5fd3a.chunk.js",
-    "main.js.map": "/my-app/static/js/main.c1b5fd3a.chunk.js.map",
+    "main.css": "/my-app/static/css/main.9c1d4f96.chunk.css",
+    "main.js": "/my-app/static/js/main.007a3b0b.chunk.js",
+    "main.js.map": "/my-app/static/js/main.007a3b0b.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.00fe1762.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.00fe1762.js.map",
-    "static/js/2.5a95c050.chunk.js": "/my-app/static/js/2.5a95c050.chunk.js",
-    "static/js/2.5a95c050.chunk.js.map": "/my-app/static/js/2.5a95c050.chunk.js.map",
+    "static/js/2.4253ea2d.chunk.js": "/my-app/static/js/2.4253ea2d.chunk.js",
+    "static/js/2.4253ea2d.chunk.js.map": "/my-app/static/js/2.4253ea2d.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.30ab249d423db6b8be7a4064c19b4eb5.js": "/my-app/precache-manifest.30ab249d423db6b8be7a4064c19b4eb5.js",
+    "precache-manifest.b6186ad3ce0f9efaa855803af1a7f302.js": "/my-app/precache-manifest.b6186ad3ce0f9efaa855803af1a7f302.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.9f92cec2.chunk.css.map": "/my-app/static/css/main.9f92cec2.chunk.css.map",
-    "static/js/2.5a95c050.chunk.js.LICENSE.txt": "/my-app/static/js/2.5a95c050.chunk.js.LICENSE.txt",
+    "static/css/main.9c1d4f96.chunk.css.map": "/my-app/static/css/main.9c1d4f96.chunk.css.map",
+    "static/js/2.4253ea2d.chunk.js.LICENSE.txt": "/my-app/static/js/2.4253ea2d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/my-app/static/media/Helvetica73BoldExtended.55612daf.woff",
     "static/media/MenClothing1.jpg": "/my-app/static/media/MenClothing1.788c9e46.jpg",
     "static/media/MenClothing2.jpg": "/my-app/static/media/MenClothing2.822906fb.jpg",
@@ -33,14 +33,17 @@
     "static/media/storelocator.svg": "/my-app/static/media/storelocator.4fa696b0.svg",
     "static/media/video.mp4": "/my-app/static/media/video.6521032f.mp4",
     "static/media/video2.mp4": "/my-app/static/media/video2.cf3aa221.mp4",
-    "static/media/video3.mp4": "/my-app/static/media/video3.187e0161.mp4",
+    "static/media/videokids.mp4": "/my-app/static/media/videokids.187e0161.mp4",
+    "static/media/videomen.mp4": "/my-app/static/media/videomen.91cfa29a.mp4",
+    "static/media/videowomen.mp4": "/my-app/static/media/videowomen.b7b57b91.mp4",
+    "static/media/videowomen2.mp4": "/my-app/static/media/videowomen2.1d1c8e37.mp4",
     "static/media/watch.jpg": "/my-app/static/media/watch.b7f1c72f.jpg",
     "static/media/women.jpg": "/my-app/static/media/women.37287268.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.00fe1762.js",
-    "static/js/2.5a95c050.chunk.js",
-    "static/css/main.9f92cec2.chunk.css",
-    "static/js/main.c1b5fd3a.chunk.js"
+    "static/js/2.4253ea2d.chunk.js",
+    "static/css/main.9c1d4f96.chunk.css",
+    "static/js/main.007a3b0b.chunk.js"
   ]
 }
