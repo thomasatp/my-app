@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c69efbcdbec09bf98805cf44b12a534c",
+    "revision": "824cbea1547e729892b0d070b5417e7d",
     "url": "/my-app/index.html"
   },
   {
-    "revision": "54bd9e4924fd91f7f2cb",
-    "url": "/my-app/static/css/main.86ca76d0.chunk.css"
+    "revision": "4bf6c3fe1d866b007841",
+    "url": "/my-app/static/css/main.13d0b161.chunk.css"
   },
   {
-    "revision": "152de1393d17511f2833",
-    "url": "/my-app/static/js/2.cc22b891.chunk.js"
+    "revision": "b73cf6551c7cdfb7cf60",
+    "url": "/my-app/static/js/2.14c4aff6.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/my-app/static/js/2.cc22b891.chunk.js.LICENSE.txt"
+    "url": "/my-app/static/js/2.14c4aff6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54bd9e4924fd91f7f2cb",
-    "url": "/my-app/static/js/main.675ee7b9.chunk.js"
+    "revision": "4bf6c3fe1d866b007841",
+    "url": "/my-app/static/js/main.d8ea6d2a.chunk.js"
   },
   {
     "revision": "2a4828a1f8612c036a83",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-app/static/media/MenClothing2.822906fb.jpg"
   },
   {
+    "revision": "544e68bc7ed364ffb707d0909d57b4ac",
+    "url": "/my-app/static/media/accessoriesMen.544e68bc.jpg"
+  },
+  {
     "revision": "a3397d1516673140a76f853fabf629c6",
     "url": "/my-app/static/media/account.a3397d15.svg"
   },
@@ -48,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-app/static/media/bag1.4a04fb52.jpg"
   },
   {
-    "revision": "d9f8537eb6e56c0f51c24b7a32c7ded0",
-    "url": "/my-app/static/media/bag2.d9f8537e.jpg"
+    "revision": "f5c3f1be9596bede96e4e9a1aedfd1b2",
+    "url": "/my-app/static/media/bag2.f5c3f1be.jpg"
   },
   {
     "revision": "34d26c7e4d136a233d0e57546c63d081",
@@ -58,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "184b939565e468a8298c9873e01b1086",
     "url": "/my-app/static/media/fragrances.184b9395.jpg"
+  },
+  {
+    "revision": "78e1917a1a05282ba2821217c611e96f",
+    "url": "/my-app/static/media/fragrancesMen.78e1917a.jpg"
   },
   {
     "revision": "c0bbee4067ba61677fbf785ed519d14f",
@@ -80,6 +88,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-app/static/media/leather.b7aea22e.jpg"
   },
   {
+    "revision": "3b90755dbbda7e5e90584d2b7e7f94c0",
+    "url": "/my-app/static/media/leathergoodsMen.3b90755d.jpg"
+  },
+  {
     "revision": "1452c037252cd328ad6623e78437da2a",
     "url": "/my-app/static/media/logo1.1452c037.svg"
   },
@@ -98,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4fa696b0bebdb0fc3b7a1e0ba9724b4c",
     "url": "/my-app/static/media/storelocator.4fa696b0.svg"
+  },
+  {
+    "revision": "12f9c96a2b579d7ab2fec8627e16833d",
+    "url": "/my-app/static/media/underwearMen.12f9c96a.jpg"
   },
   {
     "revision": "6521032fce453e0beeba08355b8da15a",
