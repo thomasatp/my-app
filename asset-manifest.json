@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.eee5a186.chunk.css",
-    "main.js": "/my-app/static/js/main.c4e12c56.chunk.js",
-    "main.js.map": "/my-app/static/js/main.c4e12c56.chunk.js.map",
+    "main.css": "/my-app/static/css/main.fd26996e.chunk.css",
+    "main.js": "/my-app/static/js/main.b9d62db7.chunk.js",
+    "main.js.map": "/my-app/static/js/main.b9d62db7.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.00fe1762.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.00fe1762.js.map",
     "static/js/2.845681a6.chunk.js": "/my-app/static/js/2.845681a6.chunk.js",
     "static/js/2.845681a6.chunk.js.map": "/my-app/static/js/2.845681a6.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.c4fd0954bab7dc50bde0e5e3b5a2a362.js": "/my-app/precache-manifest.c4fd0954bab7dc50bde0e5e3b5a2a362.js",
+    "precache-manifest.58a3159601239cb140c076c019d21278.js": "/my-app/precache-manifest.58a3159601239cb140c076c019d21278.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.eee5a186.chunk.css.map": "/my-app/static/css/main.eee5a186.chunk.css.map",
+    "static/css/main.fd26996e.chunk.css.map": "/my-app/static/css/main.fd26996e.chunk.css.map",
     "static/js/2.845681a6.chunk.js.LICENSE.txt": "/my-app/static/js/2.845681a6.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/my-app/static/media/Helvetica73BoldExtended.55612daf.woff",
     "static/media/MenClothing1.jpg": "/my-app/static/media/MenClothing1.788c9e46.jpg",
@@ -47,7 +47,7 @@
   "entrypoints": [
     "static/js/runtime-main.00fe1762.js",
     "static/js/2.845681a6.chunk.js",
-    "static/css/main.eee5a186.chunk.css",
-    "static/js/main.c4e12c56.chunk.js"
+    "static/css/main.fd26996e.chunk.css",
+    "static/js/main.b9d62db7.chunk.js"
   ]
 }
