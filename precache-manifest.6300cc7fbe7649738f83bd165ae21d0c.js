@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bb9b5e8a8bbfd3bafbca95ef751a8ef",
+    "revision": "b06702ad54327637dd45ddd9af87404e",
     "url": "/my-app/index.html"
   },
   {
-    "revision": "3ea2142ff95135093e86",
-    "url": "/my-app/static/css/main.fd26996e.chunk.css"
+    "revision": "eee1218b559bcf4bfc35",
+    "url": "/my-app/static/css/main.49525c59.chunk.css"
   },
   {
-    "revision": "f507c860e6ceb34dc896",
-    "url": "/my-app/static/js/2.845681a6.chunk.js"
+    "revision": "cfa3f6e82bca451d24a0",
+    "url": "/my-app/static/js/2.b940b112.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/my-app/static/js/2.845681a6.chunk.js.LICENSE.txt"
+    "url": "/my-app/static/js/2.b940b112.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ea2142ff95135093e86",
-    "url": "/my-app/static/js/main.be47fabb.chunk.js"
+    "revision": "eee1218b559bcf4bfc35",
+    "url": "/my-app/static/js/main.35ace4f3.chunk.js"
   },
   {
     "revision": "2a4828a1f8612c036a83",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-app/static/media/bag1.4a04fb52.jpg"
   },
   {
-    "revision": "f5c3f1be9596bede96e4e9a1aedfd1b2",
-    "url": "/my-app/static/media/bag2.f5c3f1be.jpg"
+    "revision": "562cca55b7dbb1ca94a7c2df5a3b12b9",
+    "url": "/my-app/static/media/bag2.562cca55.jpg"
   },
   {
     "revision": "34d26c7e4d136a233d0e57546c63d081",
@@ -78,6 +78,78 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a9a91717139a703a162fc0587849245",
     "url": "/my-app/static/media/image2.6a9a9171.jpg"
+  },
+  {
+    "revision": "f77e691552e565d6a3d3eee6ddc77f41",
+    "url": "/my-app/static/media/imgProductKids1.f77e6915.jpg"
+  },
+  {
+    "revision": "86a7ec72f7bee55e804d43c80b7df5c9",
+    "url": "/my-app/static/media/imgProductKids2.86a7ec72.jpg"
+  },
+  {
+    "revision": "378f743f0442c628b44a105d4c9edbdd",
+    "url": "/my-app/static/media/imgProductKids3.378f743f.jpg"
+  },
+  {
+    "revision": "193eabe3034ee6a483db3eb32757638f",
+    "url": "/my-app/static/media/imgProductKids4.193eabe3.jpg"
+  },
+  {
+    "revision": "c3ff4e936c2d284f4d92ffe17781aacf",
+    "url": "/my-app/static/media/imgProductKids5.c3ff4e93.jpg"
+  },
+  {
+    "revision": "29156147d7e22a4988f6b5fc58dc1eb5",
+    "url": "/my-app/static/media/imgProductKids6.29156147.jpg"
+  },
+  {
+    "revision": "35de29f1c6c2f2ab3a41ee16c57be3d0",
+    "url": "/my-app/static/media/imgProductMen1.35de29f1.jpg"
+  },
+  {
+    "revision": "40a5f43241c78c0a0c82fc33637ee1f4",
+    "url": "/my-app/static/media/imgProductMen2.40a5f432.jpg"
+  },
+  {
+    "revision": "db9317d6e3c5e639a787d3879762d92f",
+    "url": "/my-app/static/media/imgProductMen3.db9317d6.jpg"
+  },
+  {
+    "revision": "e2c3cf44208e0c6d8a04f84075158ad0",
+    "url": "/my-app/static/media/imgProductMen4.e2c3cf44.jpg"
+  },
+  {
+    "revision": "26dee871d3a7e6547a90a7d40e0b62b9",
+    "url": "/my-app/static/media/imgProductMen5.26dee871.jpg"
+  },
+  {
+    "revision": "5e0e019f60210bb08d0905aef6640274",
+    "url": "/my-app/static/media/imgProductMen6.5e0e019f.jpg"
+  },
+  {
+    "revision": "dd9aef2bfddacb51bacb2a7d8bfd3d13",
+    "url": "/my-app/static/media/imgProductWomen1.dd9aef2b.jpg"
+  },
+  {
+    "revision": "d989cda415aa3bd98e2caa9305c6afe0",
+    "url": "/my-app/static/media/imgProductWomen2.d989cda4.jpg"
+  },
+  {
+    "revision": "b52408c328ca3f9666ee665d4a31560f",
+    "url": "/my-app/static/media/imgProductWomen3.b52408c3.jpg"
+  },
+  {
+    "revision": "896681b939f25b76e38ff738e16eb5f9",
+    "url": "/my-app/static/media/imgProductWomen4.896681b9.jpg"
+  },
+  {
+    "revision": "3b799ea46a1a3821e000748584541c3f",
+    "url": "/my-app/static/media/imgProductWomen5.3b799ea4.jpg"
+  },
+  {
+    "revision": "46da47d9ab413c360336ea705f45b7f6",
+    "url": "/my-app/static/media/imgProductWomen6.46da47d9.jpg"
   },
   {
     "revision": "9f4b8b50eb5cb5d091e4a1993026c6e9",
