@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.0952ee52.chunk.css",
-    "main.js": "/my-app/static/js/main.b489fa98.chunk.js",
-    "main.js.map": "/my-app/static/js/main.b489fa98.chunk.js.map",
+    "main.css": "/my-app/static/css/main.b331902c.chunk.css",
+    "main.js": "/my-app/static/js/main.4a07e6f8.chunk.js",
+    "main.js.map": "/my-app/static/js/main.4a07e6f8.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.00fe1762.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.00fe1762.js.map",
-    "static/js/2.17015e07.chunk.js": "/my-app/static/js/2.17015e07.chunk.js",
-    "static/js/2.17015e07.chunk.js.map": "/my-app/static/js/2.17015e07.chunk.js.map",
+    "static/js/2.eff57f78.chunk.js": "/my-app/static/js/2.eff57f78.chunk.js",
+    "static/js/2.eff57f78.chunk.js.map": "/my-app/static/js/2.eff57f78.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.9e8ec8f17089940bcf16155759c5da07.js": "/my-app/precache-manifest.9e8ec8f17089940bcf16155759c5da07.js",
+    "precache-manifest.6f3155da9e34e6541ee513ebfb6118c0.js": "/my-app/precache-manifest.6f3155da9e34e6541ee513ebfb6118c0.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.0952ee52.chunk.css.map": "/my-app/static/css/main.0952ee52.chunk.css.map",
-    "static/js/2.17015e07.chunk.js.LICENSE.txt": "/my-app/static/js/2.17015e07.chunk.js.LICENSE.txt",
+    "static/css/main.b331902c.chunk.css.map": "/my-app/static/css/main.b331902c.chunk.css.map",
+    "static/js/2.eff57f78.chunk.js.LICENSE.txt": "/my-app/static/js/2.eff57f78.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/my-app/static/media/Helvetica73BoldExtended.55612daf.woff",
     "static/media/MenClothing1.jpg": "/my-app/static/media/MenClothing1.788c9e46.jpg",
     "static/media/MenClothing2.jpg": "/my-app/static/media/MenClothing2.822906fb.jpg",
     "static/media/accessoriesMen.jpg": "/my-app/static/media/accessoriesMen.544e68bc.jpg",
     "static/media/account.svg": "/my-app/static/media/account.a3397d15.svg",
     "static/media/arrowLeft.svg": "/my-app/static/media/arrowLeft.7e464f6d.svg",
-    "static/media/arrowRight.svg": "/my-app/static/media/arrowRight.fc80b3b0.svg",
+    "static/media/arrowRight.svg": "/my-app/static/media/arrowRight.a9e732fa.svg",
     "static/media/bag.svg": "/my-app/static/media/bag.2c6dad0e.svg",
     "static/media/bag1.jpg": "/my-app/static/media/bag1.4a04fb52.jpg",
     "static/media/bag2.jpg": "/my-app/static/media/bag2.562cca55.jpg",
@@ -66,8 +66,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00fe1762.js",
-    "static/js/2.17015e07.chunk.js",
-    "static/css/main.0952ee52.chunk.css",
-    "static/js/main.b489fa98.chunk.js"
+    "static/js/2.eff57f78.chunk.js",
+    "static/css/main.b331902c.chunk.css",
+    "static/js/main.4a07e6f8.chunk.js"
   ]
 }
