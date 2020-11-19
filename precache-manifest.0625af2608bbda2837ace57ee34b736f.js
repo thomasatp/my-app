@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8487c21e32c105602bc9605774211c13",
+    "revision": "f286638ceaa3e5a96a68c4a7407774ad",
     "url": "/my-app/index.html"
   },
   {
-    "revision": "1df665f72cc206fcde17",
-    "url": "/my-app/static/css/main.0e29131e.chunk.css"
+    "revision": "92ea3c49013c719424ed",
+    "url": "/my-app/static/css/main.49cce625.chunk.css"
   },
   {
-    "revision": "cef3f2b3491c05d5c467",
-    "url": "/my-app/static/js/2.2855d034.chunk.js"
+    "revision": "91e29f38c0f164d52959",
+    "url": "/my-app/static/js/2.b0be53e8.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/my-app/static/js/2.2855d034.chunk.js.LICENSE.txt"
+    "url": "/my-app/static/js/2.b0be53e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1df665f72cc206fcde17",
-    "url": "/my-app/static/js/main.d6efe0a5.chunk.js"
+    "revision": "92ea3c49013c719424ed",
+    "url": "/my-app/static/js/main.07e3d55c.chunk.js"
   },
   {
     "revision": "2a4828a1f8612c036a83",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "544e68bc7ed364ffb707d0909d57b4ac",
     "url": "/my-app/static/media/accessoriesMen.544e68bc.jpg"
+  },
+  {
+    "revision": "4a16fcb6f2f972e4bbbe2e6943c2d954",
+    "url": "/my-app/static/media/accessoriesWomen.4a16fcb6.jpg"
   },
   {
     "revision": "a3397d1516673140a76f853fabf629c6",
@@ -170,6 +174,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b90755dbbda7e5e90584d2b7e7f94c0",
     "url": "/my-app/static/media/leathergoodsMen.3b90755d.jpg"
+  },
+  {
+    "revision": "801588df9d6d898e5bff46106fcd7a6a",
+    "url": "/my-app/static/media/leathergoodsWomen.801588df.jpg"
   },
   {
     "revision": "1452c037252cd328ad6623e78437da2a",

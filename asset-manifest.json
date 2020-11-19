@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.0e29131e.chunk.css",
-    "main.js": "/my-app/static/js/main.d6efe0a5.chunk.js",
-    "main.js.map": "/my-app/static/js/main.d6efe0a5.chunk.js.map",
+    "main.css": "/my-app/static/css/main.49cce625.chunk.css",
+    "main.js": "/my-app/static/js/main.07e3d55c.chunk.js",
+    "main.js.map": "/my-app/static/js/main.07e3d55c.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.00fe1762.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.00fe1762.js.map",
-    "static/js/2.2855d034.chunk.js": "/my-app/static/js/2.2855d034.chunk.js",
-    "static/js/2.2855d034.chunk.js.map": "/my-app/static/js/2.2855d034.chunk.js.map",
+    "static/js/2.b0be53e8.chunk.js": "/my-app/static/js/2.b0be53e8.chunk.js",
+    "static/js/2.b0be53e8.chunk.js.map": "/my-app/static/js/2.b0be53e8.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.8d240ff8643f815fd9950ea3841f927a.js": "/my-app/precache-manifest.8d240ff8643f815fd9950ea3841f927a.js",
+    "precache-manifest.0625af2608bbda2837ace57ee34b736f.js": "/my-app/precache-manifest.0625af2608bbda2837ace57ee34b736f.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.0e29131e.chunk.css.map": "/my-app/static/css/main.0e29131e.chunk.css.map",
-    "static/js/2.2855d034.chunk.js.LICENSE.txt": "/my-app/static/js/2.2855d034.chunk.js.LICENSE.txt",
+    "static/css/main.49cce625.chunk.css.map": "/my-app/static/css/main.49cce625.chunk.css.map",
+    "static/js/2.b0be53e8.chunk.js.LICENSE.txt": "/my-app/static/js/2.b0be53e8.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/my-app/static/media/Helvetica73BoldExtended.55612daf.woff",
     "static/media/MenClothing1.jpg": "/my-app/static/media/MenClothing1.788c9e46.jpg",
     "static/media/MenClothing2.jpg": "/my-app/static/media/MenClothing2.822906fb.jpg",
     "static/media/accessoriesMen.jpg": "/my-app/static/media/accessoriesMen.544e68bc.jpg",
+    "static/media/accessoriesWomen.jpg": "/my-app/static/media/accessoriesWomen.4a16fcb6.jpg",
     "static/media/account.svg": "/my-app/static/media/account.a3397d15.svg",
     "static/media/arrowLeft.svg": "/my-app/static/media/arrowLeft.7e464f6d.svg",
     "static/media/arrowRight.svg": "/my-app/static/media/arrowRight.a9e732fa.svg",
@@ -49,6 +50,7 @@
     "static/media/kids.jpg": "/my-app/static/media/kids.9f4b8b50.jpg",
     "static/media/leather.jpg": "/my-app/static/media/leather.b7aea22e.jpg",
     "static/media/leathergoodsMen.jpg": "/my-app/static/media/leathergoodsMen.3b90755d.jpg",
+    "static/media/leathergoodsWomen.jpg": "/my-app/static/media/leathergoodsWomen.801588df.jpg",
     "static/media/logo1.svg": "/my-app/static/media/logo1.1452c037.svg",
     "static/media/logo2.svg": "/my-app/static/media/logo2.c4b088fa.svg",
     "static/media/men.jpg": "/my-app/static/media/men.9dd4d32d.jpg",
@@ -66,8 +68,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00fe1762.js",
-    "static/js/2.2855d034.chunk.js",
-    "static/css/main.0e29131e.chunk.css",
-    "static/js/main.d6efe0a5.chunk.js"
+    "static/js/2.b0be53e8.chunk.js",
+    "static/css/main.49cce625.chunk.css",
+    "static/js/main.07e3d55c.chunk.js"
   ]
 }
