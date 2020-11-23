@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.619b9f22.chunk.css",
+    "main.css": "/my-app/static/css/main.bfcb5030.chunk.css",
     "main.js": "/my-app/static/js/main.a2e48878.chunk.js",
     "main.js.map": "/my-app/static/js/main.a2e48878.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.00fe1762.js",
@@ -8,9 +8,9 @@
     "static/js/2.b0be53e8.chunk.js": "/my-app/static/js/2.b0be53e8.chunk.js",
     "static/js/2.b0be53e8.chunk.js.map": "/my-app/static/js/2.b0be53e8.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.7bb646150e7634d613ab2a5db939325c.js": "/my-app/precache-manifest.7bb646150e7634d613ab2a5db939325c.js",
+    "precache-manifest.42b7d841b8aef75b37bc7a43226b345f.js": "/my-app/precache-manifest.42b7d841b8aef75b37bc7a43226b345f.js",
     "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.619b9f22.chunk.css.map": "/my-app/static/css/main.619b9f22.chunk.css.map",
+    "static/css/main.bfcb5030.chunk.css.map": "/my-app/static/css/main.bfcb5030.chunk.css.map",
     "static/js/2.b0be53e8.chunk.js.LICENSE.txt": "/my-app/static/js/2.b0be53e8.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/my-app/static/media/Helvetica73BoldExtended.55612daf.woff",
     "static/media/MenClothing1.jpg": "/my-app/static/media/MenClothing1.788c9e46.jpg",
@@ -69,7 +69,7 @@
   "entrypoints": [
     "static/js/runtime-main.00fe1762.js",
     "static/js/2.b0be53e8.chunk.js",
-    "static/css/main.619b9f22.chunk.css",
+    "static/css/main.bfcb5030.chunk.css",
     "static/js/main.a2e48878.chunk.js"
   ]
 }
